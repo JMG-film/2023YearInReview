@@ -1,4 +1,4 @@
 #site settings and theme
 
 name: 2023 Year in Review
-theme: minima
+theme: jekyll-theme-minimal
