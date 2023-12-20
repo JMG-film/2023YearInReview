@@ -47,7 +47,7 @@ h2 {
 }
 
 h3{
-	color: d12b3f;
+	color: #d12b3f;
 	font-family: quasimoda, sans-serif;
 	font-weight: 400;
 	font-style: italic;
@@ -65,7 +65,7 @@ p {
 .cursor{
 	cursor: none;
    position: fixed;
-   background-color: d12b3f;
+   background-color: #d12b3f;
    width: 20px;
    height: 20px;
    border-radius: 50%;
